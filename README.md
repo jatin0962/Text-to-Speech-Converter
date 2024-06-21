@@ -1,3 +1,3 @@
-# Text-to-Speech-Converter
+# Python-Text-to-Speech-Converter
 The Text to Speech Converter project is a Python-based software application that provides users with the ability to convert written text into natural-sounding speech. The project utilizes the tkinter GUI toolkit to provide an intuitive and user-friendly interface, and the pyttsx3 library to generate high-quality audio output.
 The Text to Speech Converter project allows users to input text into a text box and select various settings, such as the speed and voice of the audio output. The pyttsx3 library is responsible for the text-to-speech conversion and includes a range of advanced features, such as the ability to pause and resume audio playback, change the volume of the audio output, and control the pronunciation of specific words.
